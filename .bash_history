@@ -350,3 +350,42 @@ pwd
 git reset --soft head~1
 git reset --soft HEAD~1
 pwd
+git reset --soft HEAD~1
+git rm -r --cached .ssh
+echo ',ssh" >> .gitignore
+
+git add.
+git commit -m "removed sensitive files and added gitignore"
+git push
+pwd
+pwd
+git add .
+git commit -m "removed sensitive files and added gitignore"
+git push
+git reset --soft HEAD~2
+git rm -rf --cached .ssh/
+echo '.ssh" >> .gitignore
+echo ".ssh/" >> .gitignore
+echo "gpush.sh" >> .gitignore
+clear
+pwd
+git add .
+git commit -m "clean commit without sensitive data"
+git push origin Bappa1st
+git reset --soft HEAD~2
+git reset
+git rm -rf --cached .ssh
+echo ".ssh/" > .gitignore
+git add .
+git commit --amend -m "Initial clean commit"
+git push origin Bappa1st --force
+ls -l
+cd myapp
+ls -l
+touch myapp/.gitkeep
+ls -l
+cd
+ls -lh
+cd myapp
+touch DummyGit.txt
+ls -l
