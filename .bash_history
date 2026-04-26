@@ -266,3 +266,87 @@ git init
 pwd
 user
 which user
+pwd
+sudo dnf install git -y
+sudo dnf update
+sudo apt update
+git config --global user.name "BappadityaGitHub"
+git cinfig --global user.email "bappadityasahoo23@gmail.com"
+git config --global user.email "bappadityasahoo23@gmail.com"
+sudo dnf update
+cd
+pwd
+git init
+git add
+pwd
+ls -l
+pwd
+git add .
+git remote add origin https://github.com/BappadityaGitHub/Shell-scripting-practice---cloud-computing-and-Devops-.git
+git remote -v
+git push origin main
+git branch -m Bappa1st
+git branch
+pwd
+git push origin Bappa1st
+git init
+git push origin main
+git push origin master
+git add .
+git commit -m "Initila Ec2toGit Commit"
+ssh-keygen -t ed25519 -C "bappadityasahoo23@gmail.com"
+ls -l
+cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/GitKey1.pub
+rm GitKey1
+ls -l
+rm GitKey1.pub
+ls -l
+cat githubrepo.txt
+mv githubrepo.txt GithubRepoUrl.txt
+ls -l
+cat cat GithubRepoUrl.txt
+ssh-keygen -t rsa -b 4096 -C "bappadityasahoo23@gmail.com"
+pwd
+ls -l
+cd
+ssh-keygen -t rsa -b 4096 -C "bappadityasahoo23@gmail.com"
+cat ~/.ssh/GitHubKey1.pub
+ls -l
+cat GitHubKey1.pub
+cd
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/GitHubKey1.pub
+rr
+ls -al ~/.ssh
+ssh-keygen -t ed25519 -C "bappadityasahoo23@gmail.com"
+ls -al ~/.ssh
+cd
+cat ~/.ssh/id_ed25519.pub
+git remote set-url origin git@github.com:BappadityaGitHub/Shell-scripting-practice---cloud-computing-and-Devops-.git
+git push -u origin main
+git branch
+ls -l
+rm GitHubKey1
+rm GitHubKey1.pub
+ls -l
+ssh -T git@github.com
+git push -u origin Bappa1st
+ssh -T git@github.com
+pwd
+ls -l
+cd
+git add .
+git commit -m "Commit-2"
+git push
+git add .
+
+git push
+git config user.email
+git add .
+git commit -m "update commit"
+git push
+pwd
+git reset --soft head~1
+git reset --soft HEAD~1
+pwd
