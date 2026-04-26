@@ -1,0 +1,3 @@
+Note 1 : learn linux baiscs
+Note 2 : practice aws CLI
+Note 3 : Automate with terraform 
